@@ -1,0 +1,1 @@
+# functionaltraining.odoo.com
